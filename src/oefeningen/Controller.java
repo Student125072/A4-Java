@@ -5,7 +5,7 @@ import java.awt.event.ActionListener;
 import java.util.Observable;
 import javax.swing.*;
 
-public class Controller extends JPanel implements oefeningen1.Controller {
+public class Controller extends JPanel{
     JButton clickButton;
     private View view;
     private Model model;
